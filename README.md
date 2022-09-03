@@ -1,1 +1,1 @@
-Terminals, black screens & green text
+Terminals: black screens & green text
